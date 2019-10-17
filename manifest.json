@@ -7,7 +7,7 @@
             {
               "name": "Heroku",
               "description": "Use Heroku to host the Node server between ODA and Alexa",
-              "imageUrl": "https://oraclemichael.github.io/ODA-Alexa-Workshop/heroku.png"
+              "imageUrl": "https://oraclemichael.github.io/ODA-Alexa-Workshop/images/heroku.png"
             }
         ],
         "labs": [
