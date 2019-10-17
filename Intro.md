@@ -1,5 +1,7 @@
 # Integration of Oracle Digital Assistant (ODA) with Alexa Devices
 
+Updated: October 17th, 2019
+
 Welcome to the **Oracle Public Cloud** ODA-Alexa Integration workshop. This workshop will walk you through the process of creating an integration between an Alexa device and Oracle Digital Assistant to facilitate voice conversations with your digital assistant.
 
 A link to the video of the final product can be found below:
@@ -8,7 +10,9 @@ A link to the video of the final product can be found below:
 
 ## Introduction
 
-This lab discusses the steps taken to build an integration between an Amazon Alexa device and Oracle Digital Assistance. The purpose of doing so is to allow someone to use a smart speaker device to verbally talk to their digital assistant instead of using a typing keyboard interface.
+This lab discusses the steps taken to build an integration between an Amazon Alexa device and Oracle Digital Assistance. The purpose of doing so is to allow someone to use a smart speaker device to talk to their digital assistant instead of typing on a keyboard.
+
+Chatbots are becoming smarter with the help of machine learning algorithms. Whereas traditional chatbots require human input to function and tend to misunderstand intent, a *digital assistant* is able to correctly categorize intent and lead conversations by itself. Also, a digital assistant can be trained to perform useful tasks, such as scheduling meetings, managing lights to conserve energy, and pulling information from a database. By combining voice-activated interfaces with advanced and customizable chatbots, people can quite literally talk to their digital assistants.
 
 ## Oracle Cloud Account
 

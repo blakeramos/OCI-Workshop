@@ -1,8 +1,10 @@
 # ODA-Alexa Integration - Digital Assistant Set Up
 
+Updated: October 17th, 2019
+
 This part of the lab builds the ODA-side of the integration.
 
-***To log issues***, click here to go to the [github oracle](https://github.com/oracle/learning-library/issues/new) repository issue submission form.
+***To log issues***, click here to go to the [github oracle](https://github.com/OracleMichael/ODA-Alexa-Workshop/issues/new) repository issue submission form.
 
 ## Objectives
 

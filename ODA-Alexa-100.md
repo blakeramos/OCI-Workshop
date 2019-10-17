@@ -1,5 +1,7 @@
 # ODA-Alexa Integration - Alexa Set Up
 
+Updated: October 17th, 2019
+
 This part of the lab builds the Alexa side of the integration.
 
 ## Objectives

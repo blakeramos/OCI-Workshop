@@ -1,9 +1,6 @@
-Updated: October 14th, 2019
+# ODA-Alexa Integration - Heroku Node Server Setup
 
-## Introduction
-
-In this lab we will explain how to setup a heroku server leveraging the existing NodeJS server found [here](https://blogs.oracle.com/mobile/adding-alexa-as-a-conversation-channel-to-your-oracle-digital-assistant-chatbot)
-You will use various commands to install heroku on your local environment. 
+Updated: October 17th, 2019
 
 ## Objectives
 - Create Heroku Account
