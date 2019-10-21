@@ -87,7 +87,7 @@ This part of the lab builds the Alexa side of the integration.
 
   ![](images/100ODA/alexa-setup-skill-12.png)
 
-- Find your skill in the list, and click 'View Skill ID'. Write down this ID, as we will be using it later. 
+- Find your skill in the list, and click 'View Skill ID'. Copy this ID into notepad, as we will be using it later. 
 
   ![](images/100ODA/alexa-setup-skill-13.png)
 

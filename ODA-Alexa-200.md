@@ -88,7 +88,21 @@ Go to your heroku app, **click open app** and copy the **URL** in the new tab th
 ![](images/200heroku/channelEnable.png)
 ### **STEP 4**: Copy SECRET KEY and Webhook URL in the newly created webhook.
 ![](images/200heroku/copyID.png)
-   
+
+# Create endpoint in Amazon Alexa
+## In this section we will configure Alexa to forward requests to the heroku server
+### **Pre-step**: Copy heroku app URL
+Go to your heroku app, **click open app** and copy the **URL** in the new tab that was opened.
+![](images/200heroku/openApp.png)
+### **STEP 1**: Go to your Alexa Skill
+![](images/200alexa/alexa-endpoint-1.png)
+### **STEP 1**: Navigate to endpoints
+![](images/200alexa/alexa-endpoint-2.png)
+### **STEP 2**: Configure the endpoint
+-Give it a name of your choice. 
+-The **outgoing webhook URL** will be: **/<URL-THAT-YOU-JUST-COPIED/>/alexa/app** 
+-Select 'My deployment endpoint is a sub-domain of a domain that has a wildcard certificate from a certificate authority'
+![](images/200alexa/alexa-endpoint-3.png)
 
   
 # Deploy nodejs application
