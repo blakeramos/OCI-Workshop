@@ -95,12 +95,14 @@ Go to your heroku app, **click open app** and copy the **URL** in the new tab th
 Go to your heroku app, **click open app** and copy the **URL** in the new tab that was opened.
 ![](images/200heroku/openApp.png)
 ### **STEP 1**: Go to your Alexa Skill
+-Click on your skill to open the development console. 
 ![](images/200alexa/alexa-endpoint-1.png)
 ### **STEP 1**: Navigate to endpoints
+-Click on "Endpoints" on the left-hand navigation menu. 
 ![](images/200alexa/alexa-endpoint-2.png)
 ### **STEP 2**: Configure the endpoint
--Give it a name of your choice. 
--The **outgoing webhook URL** will be: **/<URL-THAT-YOU-JUST-COPIED/>/alexa/app** 
+-Select HTTPS. Edit the default region module. 
+-The **URL** will be: **/URL-THAT-YOU-JUST-COPIED/alexa/app** 
 -Select 'My deployment endpoint is a sub-domain of a domain that has a wildcard certificate from a certificate authority'
 ![](images/200alexa/alexa-endpoint-3.png)
 
