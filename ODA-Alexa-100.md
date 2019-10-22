@@ -69,7 +69,7 @@ This part of the lab builds the Alexa side of the integration.
 
 <img src="images/100ODA/alexa-setup-skill-8.png" alt="" width="200">
 
-- Select **Create custom intent** and enter a name for your intent. This name cannot be the same as your slot name that you created previously. 
+- Select **Create custom intent** and enter exactly "CommandBot" for your intent name. <!--This name cannot be the same as your slot name that you created previously.--> 
 
 <img src="images/100ODA/alexa-setup-skill-9.png" alt="" width="50%">
 
