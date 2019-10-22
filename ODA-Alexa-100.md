@@ -31,18 +31,17 @@ This part of the lab builds the Alexa side of the integration.
 
   ![](images/100ODA/alexa-create-skill-2.png)
 
-  ![](images/100ODA/alexa-create-skill-3.png)
+<img src="images/100ODA/alexa-create-skill-3.png" alt="" width="80%">
 
 - From **Choose a template**, select 'Start from scratch'.
 
-  ![](images/100ODA/alexa-create-skill-4.png)
+<img src="images/100ODA/alexa-create-skill-4.png" alt="" width="90%">
 
 ### **STEP 4**: Define the Skill
 
 - From the created skill, select the **Invocation** option on the left panel.
 
-<img src="images/100ODA/alexa-setup-skill-1.png" alt="" style="
-    width: 200px;">
+<img src="images/100ODA/alexa-setup-skill-1.png" alt="" width="200">
 
 - Under **Skill Invocation Name**, enter the phrase you would like to invoke the bot (must be 2 words).
 
@@ -50,8 +49,7 @@ This part of the lab builds the Alexa side of the integration.
 
 - Select the **Slot Types** option on the left panel. 
 
-<img src="images/100ODA/alexa-setup-skill-3.png" alt="" style="
-    width: 200px;">
+<img src="images/100ODA/alexa-setup-skill-3.png" alt="" width="200">
 
 - Select **Add Slot Type**. Select **Create custom slot type** and enter a name for your slot. 
 
@@ -65,8 +63,7 @@ This part of the lab builds the Alexa side of the integration.
 
 - Find the **Intent** option on the left panel.
 
-<img src="images/100ODA/alexa-setup-skill-7.png" alt="" style="
-    width: 200px;">
+<img src="images/100ODA/alexa-setup-skill-7.png" alt="" width="200">
 
 - Create a new Intent with the **Add Intent** button
 
@@ -88,13 +85,11 @@ This part of the lab builds the Alexa side of the integration.
 
 - Scroll to the top of the page and press the 'Your Skills' option. 
 
-<img src="images/100ODA/alexa-setup-skill-12.png" alt="" style="
-    width: 360px;">
+<img src="images/100ODA/alexa-setup-skill-12.png" alt="" width="360">
 
 - Find your skill in the list, and click 'View Skill ID'. Copy this ID into notepad, as we will be using it later. 
 
-<img src="images/100ODA/alexa-setup-skill-13.png" alt="" style="
-    width: 360px;">
+<img src="images/100ODA/alexa-setup-skill-13.png" alt="" width="360">
 
 **This completes the Set Up!**
 
