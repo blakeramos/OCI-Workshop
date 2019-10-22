@@ -41,7 +41,8 @@ This part of the lab builds the Alexa side of the integration.
 
 - From the created skill, select the **Invocation** option on the left panel.
 
-  ![](images/100ODA/alexa-setup-skill-1.png)
+<img src="images/100ODA/alexa-setup-skill-1.png" alt="" style="
+    width: 200px;">
 
 - Under **Skill Invocation Name**, enter the phrase you would like to invoke the bot (must be 2 words).
 
@@ -49,7 +50,8 @@ This part of the lab builds the Alexa side of the integration.
 
 - Select the **Slot Types** option on the left panel. 
 
-  ![](images/100ODA/alexa-setup-skill-3.png)
+<img src="images/100ODA/alexa-setup-skill-3.png" alt="" style="
+    width: 200px;">
 
 - Select **Add Slot Type**. Select **Create custom slot type** and enter a name for your slot. 
 
@@ -63,7 +65,8 @@ This part of the lab builds the Alexa side of the integration.
 
 - Find the **Intent** option on the left panel.
 
-  ![](images/100ODA/alexa-setup-skill-7.png)
+<img src="images/100ODA/alexa-setup-skill-7.png" alt="" style="
+    width: 200px;">
 
 - Create a new Intent with the **Add Intent** button
 
@@ -85,11 +88,13 @@ This part of the lab builds the Alexa side of the integration.
 
 - Scroll to the top of the page and press the 'Your Skills' option. 
 
-  ![](images/100ODA/alexa-setup-skill-12.png)
+<img src="images/100ODA/alexa-setup-skill-12.png" alt="" style="
+    width: 360px;">
 
 - Find your skill in the list, and click 'View Skill ID'. Copy this ID into notepad, as we will be using it later. 
 
-  ![](images/100ODA/alexa-setup-skill-13.png)
+<img src="images/100ODA/alexa-setup-skill-13.png" alt="" style="
+    width: 360px;">
 
 **This completes the Set Up!**
 
