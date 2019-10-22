@@ -67,7 +67,7 @@ This part of the lab builds the Alexa side of the integration.
 
 - Create a new Intent with the **Add Intent** button
 
-<img src="images/100ODA/alexa-setup-skill-8.png" alt="" width="80%">
+<img src="images/100ODA/alexa-setup-skill-8.png" alt="" width="200">
 
 - Select **Create custom intent** and enter a name for your intent. This name cannot be the same as your slot name that you created previously. 
 
