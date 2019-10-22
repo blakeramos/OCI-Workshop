@@ -71,7 +71,7 @@ This part of the lab builds the Alexa side of the integration.
 
 - Select **Create custom intent** and enter a name for your intent. This name cannot be the same as your slot name that you created previously. 
 
-<img src="images/100ODA/alexa-setup-skill-9.png" alt="" width="80%">
+<img src="images/100ODA/alexa-setup-skill-9.png" alt="" width="50%">
 
 - In **Sample Utterances**, enter {command} and press enter. 
 
