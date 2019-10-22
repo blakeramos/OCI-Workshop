@@ -83,7 +83,7 @@ Next, we will set up the webhook. ODA manages webhooks and similar artifacts usi
 
   ![](images/050ODA/digital-assistant-channel1.png)
 
-- Enter the **Name**, and set the **Channel Type** to "Webhook". Ensure that the **Platform Version** is "1.1 (Conversation Model)", and finally for **Outgoing Webhook URI** enter a temporary Webhook URI here. We will change this later in lab 200. Click **Create**
+- Enter the **Name**, and set the **Channel Type** to "Webhook". Ensure that the **Platform Version** is "1.1 (Conversation Model)", and finally for **Outgoing Webhook URI** enter a temporary Webhook URI here (for instance, `https://HEROKU_SERVER_NAME.herokuapp.com/singleBotWebhook/messages`). We will change this later in lab 200. Click **Create**
 
   ![](images/050ODA/digital-assistant-channel2.png)
 
@@ -91,7 +91,7 @@ Next, we will set up the webhook. ODA manages webhooks and similar artifacts usi
 
   ![](images/050ODA/digital-assistant-channel3.png)
 
-- Keep track of the Secret Key and Webhook URL. You will need these in lab 100.
+- Keep track of the Secret Key and Webhook URL. You will need these in lab 200.
 
 **This completes the set up on Oracle Digital Assistant!**
 
