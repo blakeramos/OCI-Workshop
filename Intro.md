@@ -1,12 +1,8 @@
 # Integration of Oracle Digital Assistant (ODA) with Alexa Devices
 
-Updated: October 17th, 2019
+Updated: October 25th, 2019
 
 Welcome to the **Oracle Public Cloud** ODA-Alexa Integration workshop. This workshop will walk you through the process of creating an integration between an Alexa device and Oracle Digital Assistant to facilitate voice conversations with your digital assistant.
-
-A link to the video of the final product can be found below:
-
-<a href="https://www.youtube.com/watch?v=ivNEREBsH9k&t=0s&index=3&list=PLPIzp-E1msrYGLKIgW3njO3uUkvXD0bAH" target="_video">IN PROGRESS</a>
 
 ## Introduction
 
@@ -28,22 +24,14 @@ You will need access to an Oracle Cloud tenancy to complete this workshop.
 
   ![](images/cloud-signup.png)
 
-
 - Soon after requesting your Free Tier account you will receive the following emails.  The first one indicates you have requested an account and provisioning has begun.
 
-    ![](images/signup-email.png)
+  ![](images/signup-email.png)
 
 - The next email you receive will indicate your account is fully setup and ready to go.  Proceed to Step 2.
 
-    ![](images/signup-email-provisioned.png)
-
-
+  ![](images/signup-email-provisioned.png)
 
 ### **Step 2**: Navigate to Lab 050
 
-- [Click here to navigate to Lab 50](ODA-Alexa-050.md)
-- _You can see a list of Lab Guides_ by clicking on the **Menu Icon** hamburger in the upper left corner of the browser window. Then, **Select Lab 050: Cloud Infrastructure Configuration**.
-
-  ![](images/Introham.png)
-
-  ![](images/Introham2.png)
+- [Click here to navigate to Lab 050](ODA-Alexa-050.md)

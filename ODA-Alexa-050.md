@@ -71,7 +71,7 @@ Next, we need a skill on digital assistant. You can build this skill yourself, i
 
   ![](images/050ODA/digital-assistant-skill-p1.png)
 
-- If you opt to build your own skill, please [click this link](https://docs.oracle.com/en/cloud/paas/digital-assistant/tutorial-skill/index.html) and follow the tutorial from start to finish. You may also [import the skill](https://https://github.com/OracleMichael/ODA-Alexa-Workshop/raw/master/PizzaKing.zip) described in that tutorial. Alternatively, there will be a few example skills ready to use in your tenancy.
+- If you opt to build your own skill, please [click this link](https://docs.oracle.com/en/cloud/paas/digital-assistant/tutorial-skill/index.html) and follow the tutorial from start to finish. You may also <a href="https://github.com/OracleMichael/ODA-Alexa-Workshop/raw/master/PizzaKing.zip" target="_blank">import the skill</a> described in that tutorial. Alternatively, there will be a few example skills ready to use in your tenancy.
 
 ### **STEP 5**: Set up the web channel
 
@@ -89,7 +89,7 @@ Next, you will set up the webhook. ODA manages webhooks and similar artifacts us
 
   ![](images/050ODA/digital-assistant-channel3.png)
 
-- Keep track of the Secret Key and Webhook URL. You will need these in lab 200.
+- Keep track of the **Secret Key** and **Webhook URL**. You will need these in lab 200.
 
 **This completes the set up on Oracle Digital Assistant!**
 
