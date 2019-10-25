@@ -100,7 +100,7 @@ heroku git: remote -a <INSERT APP NAME>
 
 - Click on "Endpoints" on the left-hand navigation menu.
 
-<img src="images/200alexa/alexa-endpoint-2.png" alt="" width="50%">
+  <img src="images/200alexa/alexa-endpoint-2.png" alt="" width="200">
 
 ### **STEP 5**: Configure the endpoint
 
@@ -110,7 +110,7 @@ heroku git: remote -a <INSERT APP NAME>
 
 - Select "My deployment endpoint is a sub-domain of a domain that has a wildcard certificate from a certificate authority".
 
-  ![](images/200alexa/alexa-endpoint-3.png)
+  <img src="images/200alexa/alexa-endpoint-3.png" alt="" width="80%">
  
 # Deploy Node JS application
 
