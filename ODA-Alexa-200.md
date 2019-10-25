@@ -186,10 +186,10 @@ git push heroku master
 - You will be able to interact with you newly created skill by typing or using your microphone. The format to test is as follow:
 
 ```
-Alexa, ask <invocation name> <question you programmed in a Digital Assistant>
+Alexa, ask [invocation name] [utterance to send to digital assistant skill]
 ```
 
-- For instance, if your invocation name was "Pizza King" and question was "what are my options", you would say:
+- For instance, if your invocation name was "Pizza King" and utterance was "what are my options", you would say:
 
 ```
 alexa ask pizza king what are my options
@@ -199,35 +199,9 @@ alexa ask pizza king what are my options
 
 ### **STEP 2**: Example test with the Pizza King bot
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-tex2jax: {
-inlineMath: [['$','$'], ['\\(','\\)']],
-processEscapes: true},
-jax: ["input/TeX","input/MathML","input/AsciiMath","output/CommonHTML"],
-extensions: ["tex2jax.js","mml2jax.js","asciimath2jax.js","MathMenu.js","MathZoom.js","AssistiveMML.js", "[Contrib]/a11y/accessibility-menu.js"],
-TeX: {
-extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"],
-equationNumbers: {
-autoNumber: "AMS"
-}
-}
-});
-</script>
+- If you hook up the [Pizza King skill](https://github.com/OracleMichael/ODA-Alexa-Workshop/raw/master/PizzaKing.zip) referenced in lab 050 step 4 to the digital assistant channel, you can test out this dialog by either typing in or talking to the Alexa developer console:
 
-$$\begin{tabular*}{\textwidth}{l@{\extracolsep\fill}l}
-        Alexa response & User \\[\tablestretch] \hline
-        & \colortext{alexaColor}{alexa} ask \colortext{invocColor}{pizza king} \colortext{dasstColor}{order pizza} \\[\tablestretch]
-        \begin{tabular}{l} OK, let's get that order sorted. What size of \\ pizza do you want? You can choose from the \\ following options: Large, Medium, Small. \end{tabular} & \\[\tablestretch]
-        & small \\[\tablestretch]
-        \begin{tabular}{l} What type of pizza would you like? You can \\ choose from the following options: American \\ Hot, Hot and Spicy, Meaty, Veggie. \end{tabular} & \\[\tablestretch]
-        & hot and spicy \\[\tablestretch]
-        \begin{tabular}{l}When can we deliver that for you?\end{tabular} & \\[\tablestretch]
-        & seven p.m. \\[\tablestretch]
-        \begin{tabular}{l} Thank you for ordering from Pizza King! OK, so \\ we are getting you the following items: A Small \\ Hot and Spicy pizza at 19:00. \end{tabular} & \\[\tablestretch]
-        & exit
-    \end{tabular*}$$
+  ![](images/200heroku/testing2)
 
 **This completes the ODA-Alexa Integration Workshop!**
 
