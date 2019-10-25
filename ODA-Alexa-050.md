@@ -1,6 +1,6 @@
 # ODA-Alexa Integration - Digital Assistant Set Up
 
-Updated: October 17th, 2019
+Updated: October 25th, 2019
 
 This part of the lab builds the ODA-side of the integration.
 
@@ -22,25 +22,23 @@ This part of the lab builds the ODA-side of the integration.
 
 - Once you receive the **Your Cloud Account is fully provisioned** Email, make note of your **Username and Cloud Account Name**.   *Note: `Usernames are usually your email address.`*  You can login by clicking the Sign In button or access it from any browser.
 
-    ![](images/signup-email-provisioned.png)
+  ![](images/signup-email-provisioned.png)
 
-- From any browser go to oracle.com to access our Cloud.
+- From any browser go to oracle.com to access our cloud: [https://www.oracle.com/](https://www.oracle.com/)
 
-    [https://www.oracle.com/](https://www.oracle.com/)
-
-    ![](images/login-screen.png)
+  ![](images/login-screen.png)
 
 - Click the icon in the upper right corner.  Click on **Sign in to Cloud** at the bottom of the drop down.  *NOTE:  Do NOT click the Sign-In button, this will take you to Single Sign-On, not the Oracle Cloud*
 
-    ![](images/signup.png)
+  ![](images/signup.png)
 
 - Enter your **Cloud Account Name** in the input field and click the **My Services** button. If you have a Free Tier account provisioned, this can be found in your welcome email. Otherwise, this will be supplied by your workshop instructor.
 
-    ![](images/login-tenancy.png)  
+  ![](images/login-tenancy.png)  
 
 - Enter your **Username** and **Password** in the input fields and click **Sign In**.
 
-    ![](images/cloud-login.png) 
+  ![](images/cloud-login.png) 
 
   **NOTE**: You will likely be prompted to change the temporary password listed in the welcome email. In that case, enter the new password in the password field.
 
@@ -50,7 +48,7 @@ You will create a digital assistant instance.
 
 - Click the **hamburger icon** in the upper left corner to open the navigation menu. Under the **Platform Services** section of the menu, click **Digital Assistant**. This opens up a new tab.
 
-    ![](images/050ODA/digital-assistant.png) 
+  ![](images/050ODA/digital-assistant.png) 
 
 - If you already see an instance, move on to **STEP 4**. Otherwise, you will need to create a new instance. Click **Create Instance**. In the **Instance Name** field, enter any name you want. Enter a **Description** of your choice. For **Region**, leave as `No Preference`. Click **Next**, then **Create**.
 
@@ -59,11 +57,11 @@ You will create a digital assistant instance.
 
 - In a moment, your new Digital Assistant Instance will show up in the list.
 
-    ![](images/050ODA/digital-assistant-created.png) 
+  ![](images/050ODA/digital-assistant-created.png)
 
-### **STEP 4**: Create a skill
+### **STEP 4**: Select a skill
 
-Next, we need to build a skill on digital assistant.
+Next, we need a skill on digital assistant. You can build this skill yourself, import a provided skill, or use a default skill.
 
 - Click the **small hamburger icon** on the right of the newly provisioned instance (near the "Created On" text) and click **Digital Assistant Designer UI**
 
@@ -73,17 +71,17 @@ Next, we need to build a skill on digital assistant.
 
   ![](images/050ODA/digital-assistant-skill-p1.png)
 
-- Please [click this link](https://docs.oracle.com/en/cloud/paas/digital-assistant/tutorial-skill/index.html) to build a skill. Alternatively, there will be a few example skills ready to use in your tenancy.
+- If you opt to build your own skill, please [click this link](https://docs.oracle.com/en/cloud/paas/digital-assistant/tutorial-skill/index.html) and follow the tutorial from start to finish. You may also [import the skill](https://https://github.com/OracleMichael/ODA-Alexa-Workshop/raw/master/PizzaKing.zip) described in that tutorial. Alternatively, there will be a few example skills ready to use in your tenancy.
 
 ### **STEP 5**: Set up the web channel
 
-Next, we will set up the webhook. ODA manages webhooks and similar artifacts using **channels**.
+Next, you will set up the webhook. ODA manages webhooks and similar artifacts using **channels**.
 
 - Click the **hamburger icon** in the upper left corner and expand **Development** to click on **Channels**.
 
   ![](images/050ODA/digital-assistant-channel1.png)
 
-- Enter the **Name**, and set the **Channel Type** to "Webhook". Ensure that the **Platform Version** is "1.1 (Conversation Model)", and finally for **Outgoing Webhook URI** enter a temporary Webhook URI here (for instance, `https://HEROKU_SERVER_NAME.herokuapp.com/singleBotWebhook/messages`). We will change this later in lab 200. Click **Create**
+- Enter the **Name**, and set the **Channel Type** to "Webhook". Ensure that the **Platform Version** is "1.1 (Conversation Model)", and finally for **Outgoing Webhook URI** enter a temporary Webhook URI here (for instance, `https://HEROKU_SERVER_NAME.herokuapp.com/singleBotWebhook/messages`). You will change this later in lab 200. Click **Create**
 
   ![](images/050ODA/digital-assistant-channel2.png)
 
@@ -92,8 +90,6 @@ Next, we will set up the webhook. ODA manages webhooks and similar artifacts usi
   ![](images/050ODA/digital-assistant-channel3.png)
 
 - Keep track of the Secret Key and Webhook URL. You will need these in lab 200.
-
-#
 
 **This completes the set up on Oracle Digital Assistant!**
 
