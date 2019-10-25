@@ -181,7 +181,7 @@ git push heroku master
 
 - Navigate to your Alexa skill and select the **test** tab. Allow the page to use your microphone, and toggle **Off** to **Development**.
 
-  ![](images/200heroku/testing1)
+  ![](images/200heroku/testing1.png)
 
 - You will be able to interact with you newly created skill by typing or using your microphone. The format to test is as follow:
 
@@ -201,7 +201,7 @@ alexa ask pizza king what are my options
 
 - If you hook up the [Pizza King skill](https://github.com/OracleMichael/ODA-Alexa-Workshop/raw/master/PizzaKing.zip) referenced in lab 050 step 4 to the digital assistant channel, you can test out this dialog by either typing in or talking to the Alexa developer console:
 
-  ![](images/200heroku/testing2)
+  ![](images/200heroku/testing2.png)
 
 **This completes the ODA-Alexa Integration Workshop!**
 
