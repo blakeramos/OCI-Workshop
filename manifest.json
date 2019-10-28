@@ -27,9 +27,9 @@
             },
             {
                 "number": "050",
-                "filename": "ODA-Alexa-050.md",
-                "title": "Lab 050: Digital Assistant",
-                "description": "Setting up the Digital Assistant Skill",
+                "filename": "OCI-050.md",
+                "title": "",
+                "description": "",
                 "labels": {"version": "OCI"}
             },
             {
