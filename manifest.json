@@ -1,13 +1,13 @@
 {
     "workshop": {
-        "title": "ODA-Alexa Integration Workshop",
-        "description": "These labs will teach you how to build an integration between Oracle Digital Assistant and Alexa devices",
-        "interactive": "https://oraclemichael.github.io/ODA-Alexa-Workshop/index.html",
+        "title": "OCI: Workshop",
+        "description": "These labs will teach you how to create a simple web application with autoscaling capabilities",
+        "interactive": "https://blakeramos.github.io/OCI-Workshop/index.html",
         "versions": [
             {
-              "name": "Heroku",
-              "description": "Use Heroku to host the Node server between ODA and Alexa",
-              "imageUrl": "https://oraclemichael.github.io/ODA-Alexa-Workshop/images/heroku.png"
+              "name": "OCI",
+              "description": "OCI: Workshop",
+              "imageUrl": "https://oraclemichael.github.io/ODA-Alexa-Workshop/images/"
             }
         ],
         "labs": [
