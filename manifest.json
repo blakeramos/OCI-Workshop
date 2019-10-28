@@ -28,7 +28,7 @@
             {
                 "number": "050",
                 "filename": "OCI-050.md",
-                "title": "Creating a compartment and Virtual Cloud Network",
+                "title": "Lab 50: Creating a compartment and Virtual Cloud Network",
                 "description": "Creating a compartment and Virtual Cloud Network",
                 "labels": {"version": "OCI"}
             },
