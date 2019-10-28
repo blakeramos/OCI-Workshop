@@ -5,4 +5,4 @@
 
 | Title | Location | Desc |
 | ----- | -------- | ---- |
-| ODA-Alexa Integration using Heroku Workshop | [ODA-Alexa Integration](https://oraclemichael.github.io/ODA-Alexa-Workshop) | This article discusses the steps taken to build an integration between an Amazon Alexa device and Oracle Digital Assistance. The purpose of doing so is to allow someone to use a smart speaker device to verbally talk to their digital assistant instead of using a typing keyboard interface. |
+| OCI: Workshop | [ODA-Alexa Integration](https://blakeramos.github.io/OCI-Workshop/) | This article discusses the steps taken to deploy a webserver on an Oracle compute instance. Once the webserver has been deployed we will try to access it via a Public-IP address. Once the webserver is up and running we will setup autoscaling. Autoscaling enables you to automatically adjust the number of Compute instances in an instance pool based on performance metrics such as CPU and memory utilization. This helps you provide consistent performance for your end users during periods of high demand, and helps you reduce your costs during periods of low demand. |
