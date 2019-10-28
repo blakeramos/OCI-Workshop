@@ -34,7 +34,7 @@
             },
             {
                 "number": "100",
-                "filename": "ODA-Alexa-100.md",
+                "filename": "OCI-100.md",
                 "title": "Lab 100: Amazon Alexa",
                 "description": "Setting up the Amazon Alexa Skill",
                 "labels": {"version": "OCI"}
