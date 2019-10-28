@@ -34,4 +34,4 @@ You will need access to an Oracle Cloud tenancy to complete this workshop.
 
 ### **Step 2**: Navigate to Lab 050
 
-- [Click here to navigate to Lab 050](ODA-Alexa-050.md)
+- [Click here to navigate to Lab 050](https://blakeramos.github.io/OCI-Workshop/?version=OCI&page=OCI-050.md)
