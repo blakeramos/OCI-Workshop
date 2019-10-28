@@ -34,4 +34,4 @@ You will need access to an Oracle Cloud tenancy to complete this workshop.
 
 ### **Step 2**: Navigate to Lab 050
 
-- [Click here to navigate to Lab 050](OCI-50.md)
+- [Click here to navigate to Lab 050](OCI-050.md)
