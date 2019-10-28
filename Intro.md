@@ -1,14 +1,14 @@
-# Integration of Oracle Digital Assistant (ODA) with Alexa Devices
+# Oracle Cloud Infrastructure: Workshop
 
 Updated: October 25th, 2019
 
-Welcome to the **Oracle Public Cloud** ODA-Alexa Integration workshop. This workshop will walk you through the process of creating an integration between an Alexa device and Oracle Digital Assistant to facilitate voice conversations with your digital assistant.
+Welcome to the **Oracle Public Cloud** OCI workshop. This workshop will walk you through the process of creating a webserver that is able to autoscale if CPU utilization hits a ceratin threshold. This workshop will walk you through the process of creating a compute instace, virtual cloud networking, autoscaling, and the use of Terraform. 
 
 ## Introduction
 
-This lab discusses the steps taken to build an integration between an Amazon Alexa device and Oracle Digital Assistance. The purpose of doing so is to allow someone to use a smart speaker device to talk to their digital assistant instead of typing on a keyboard.
+This lab discusses the steps taken to create and setup a compute instance to deploy a web application. Once the web application has been deployed, we will configure an instance pool that will allow our compute instance to autoscale. 
 
-Chatbots are becoming smarter with the help of machine learning algorithms. Whereas traditional chatbots require human input to function and tend to misunderstand intent, a *digital assistant* is able to correctly categorize intent and lead conversations by itself. Also, a digital assistant can be trained to perform useful tasks, such as scheduling meetings, managing lights to conserve energy, and pulling information from a database. By combining voice-activated interfaces with advanced and customizable chatbots, people can quite literally talk to their digital assistants.
+Autoscaling enables you to automatically adjust the number of Compute instances in an instance pool based on performance metrics such as CPU and memory utilization. This helps you provide consistent performance for your end users during periods of high demand, and helps you reduce your costs during periods of low demand.
 
 ## Oracle Cloud Account
 
