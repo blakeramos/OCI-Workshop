@@ -28,22 +28,22 @@
             {
                 "number": "050",
                 "filename": "OCI-050.md",
-                "title": "",
-                "description": "",
+                "title": "Creating a compartment and Virtual Cloud Network",
+                "description": "Creating a compartment and Virtual Cloud Network",
                 "labels": {"version": "OCI"}
             },
             {
                 "number": "100",
                 "filename": "OCI-100.md",
-                "title": "Lab 100: Amazon Alexa",
-                "description": "Setting up the Amazon Alexa Skill",
+                "title": "Lab 100: Web server on OCI",
+                "description": "Setting up Web server on OCI",
                 "labels": {"version": "OCI"}
             },
             {
                 "number": "200",
                 "filename": "ODA-Alexa-200.md",
-                "title": "Lab 200: Node server on Heroku",
-                "description": "Connecting Alexa to ODA",
+                "title": "Lab 200: Autoscaling on OCI",
+                "description": "Setting up Autoscaling on OCI",
                 "labels": {"version": "OCI"}
             }
         ]
