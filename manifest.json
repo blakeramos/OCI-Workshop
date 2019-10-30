@@ -45,7 +45,7 @@
                 "title": "Lab 200: Autoscaling on OCI",
                 "description": "Setting up Autoscaling on OCI",
                 "labels": {"version": "OCI"}
-            }
+            },
             {
                 "number": "300",
                 "filename": "OCI-300.md",
