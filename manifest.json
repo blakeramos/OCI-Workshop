@@ -41,9 +41,16 @@
             },
             {
                 "number": "200",
-                "filename": "ODA-Alexa-200.md",
+                "filename": "OCI-200.md",
                 "title": "Lab 200: Autoscaling on OCI",
                 "description": "Setting up Autoscaling on OCI",
+                "labels": {"version": "OCI"}
+            }
+            {
+                "number": "300",
+                "filename": "OCI-300.md",
+                "title": "Lab 300: Deploying a High Available Simple Web App using Terraform",
+                "description": "Deploying a High Available Simple Web App using Terraform",
                 "labels": {"version": "OCI"}
             }
         ]
