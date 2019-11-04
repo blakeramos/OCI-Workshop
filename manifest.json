@@ -26,30 +26,30 @@
                 "labels": {"version": "OCI"}
             },
             {
-                "number": "050",
-                "filename": "OCI-050.md",
-                "title": "Lab 50: Creating a compartment and Virtual Cloud Network",
+                "number": "100",
+                "filename": "OCI-50.md",
+                "title": "Lab 100: Creating a compartment and Virtual Cloud Network",
                 "description": "Creating a compartment and Virtual Cloud Network",
                 "labels": {"version": "OCI"}
             },
             {
-                "number": "100",
+                "number": "200",
                 "filename": "OCI-100.md",
-                "title": "Lab 100: Web server on OCI",
+                "title": "Lab 200: Web server on OCI",
                 "description": "Setting up Web server on OCI",
                 "labels": {"version": "OCI"}
             },
             {
-                "number": "200",
+                "number": "300",
                 "filename": "OCI-200.md",
-                "title": "Lab 200: Autoscaling on OCI",
+                "title": "Lab 300: Autoscaling on OCI",
                 "description": "Setting up Autoscaling on OCI",
                 "labels": {"version": "OCI"}
             },
             {
-                "number": "300",
+                "number": "400",
                 "filename": "OCI-300.md",
-                "title": "Lab 300: Deploying a High Available Simple Web App using Terraform",
+                "title": "Lab 400: Deploying a High Available Simple Web App using Terraform",
                 "description": "Deploying a High Available Simple Web App using Terraform",
                 "labels": {"version": "OCI"}
             }
