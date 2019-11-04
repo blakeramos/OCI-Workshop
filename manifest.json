@@ -28,14 +28,14 @@
             {
                 "number": "100",
                 "filename": "OCI-50.md",
-                "title": "Lab 100: Creating a compartment and Virtual Cloud Network",
+                "title": "Lab 100: Networking Setup",
                 "description": "Creating a compartment and Virtual Cloud Network",
                 "labels": {"version": "OCI"}
             },
             {
                 "number": "200",
                 "filename": "OCI-100.md",
-                "title": "Lab 200: Web server on OCI",
+                "title": "Lab 200: Compute Setup",
                 "description": "Setting up Web server on OCI",
                 "labels": {"version": "OCI"}
             },
