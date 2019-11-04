@@ -95,5 +95,5 @@ Next, we will create a virtual cloud network within the compartment you just cre
 
 **This completes the compartment and virutal cloud network configuration**
 
-**You are ready to proceed to [Lab 100](OCI-100.md)**
+**You are ready to proceed to [Lab 200](OCI-100.md)**
 
